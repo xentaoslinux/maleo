@@ -1,3 +1,9 @@
+maleo (0.8.1+xentaos2) batik; urgency=low
+
+  * Import binary from repo BlankOn.
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Tue, 05 Mar 2019 21:45:15 +0700 
+
 html5app (0.1) rote; urgency=low
 
   * Initial release.

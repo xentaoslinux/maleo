@@ -1,14 +1,21 @@
-Source: html5app
+Source: maleo
 Section: gnome
 Priority: optional
-Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
-Standards-Version: 3.9.1
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Standards-Version: 3.9.7
 Build-Depends: cdbs, debhelper (>= 7.3.5)
 
 
-Package: html5app
+Package: maleo64
 Architecture: all
-Depends: chromium-browser, zenity 
+Depends: libseed-gtk3-0 
 Description: HTML5 application runner 
  This package provides HTML5 application runner.
+
+Package: maleo32
+Architecture: all
+Depends: libseed-gtk3-0 
+Description: HTML5 application runner 
+ This package provides HTML5 application runner.
+
 
